@@ -40,8 +40,8 @@ export const projects = [
     description:
       "It is a personal portfolio website using React.js, TailwindCSS, Framer-Motion",
     techStack: ["React.js", "TailwindCSS", "Framer-Motion"],
-    link: "https://polytechnic-education-platform-website.vercel.app/",
-    github: 'https://github.com/MuhammadShafad/Polytechnic-Education-Platform-Website.git',
+    link: "https://personal-portfolio-psi-three-14.vercel.app/",
+    github: 'https://github.com/MuhammadShafad/Personal-Portfolio.git',
     image: Project17, // Replace with your project screenshot
   },
   {

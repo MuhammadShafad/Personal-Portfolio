@@ -52,7 +52,7 @@ const ResponsiveMenu = ({ open, setOpen }) => {
                         </div>
                         <div className='text-white'>
                             <h1 className='font-semibold'>BIRTHDAY</h1>
-                            <p className='text-gray-200'>12 December, 2004</p>
+                            <p className='text-gray-200'>17 December, 2004</p>
                         </div>
                     </div>
                     <div className='flex gap-3 items-center'>
